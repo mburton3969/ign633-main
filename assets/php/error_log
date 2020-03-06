@@ -1,0 +1,17 @@
+[02-Feb-2019 18:04:04 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 7
+[02-Feb-2019 18:04:41 America/Chicago] PHP Warning:  Creating default object from empty value in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 7
+[02-Feb-2019 18:05:26 America/Chicago] PHP Warning:  Creating default object from empty value in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 7
+[02-Feb-2019 18:15:40 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'passipf1_mburton'@'localhost' to database 'passipf1_toolbox_ignition633' in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/connection.php on line 7
+[02-Feb-2019 18:16:27 America/Chicago] PHP Warning:  Creating default object from empty value in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 7
+[02-Feb-2019 18:16:42 America/Chicago] PHP Warning:  Creating default object from empty value in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 12
+[02-Feb-2019 18:16:42 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 14
+[02-Feb-2019 18:17:57 America/Chicago] PHP Warning:  Creating default object from empty value in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 12
+[02-Feb-2019 18:17:57 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php:15
+Stack trace:
+#0 {main}
+  thrown in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 15
+[02-Feb-2019 18:18:16 America/Chicago] PHP Warning:  Creating default object from empty value in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 12
+[02-Feb-2019 18:18:44 America/Chicago] PHP Warning:  Creating default object from empty value in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 7
+[02-Feb-2019 18:19:56 America/Chicago] PHP Warning:  Creating default object from empty value in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 7
+[02-Feb-2019 18:21:29 America/Chicago] PHP Warning:  Creating default object from empty value in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 12
+[02-Feb-2019 18:21:29 America/Chicago] PHP Warning:  Creating default object from empty value in /home5/passipf1/public_html/beta-ignition633.org/toolbox/assets/php/search-users.php on line 15
