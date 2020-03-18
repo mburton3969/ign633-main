@@ -1,0 +1,18 @@
+[11-Mar-2020 14:21:36 America/Chicago] PHP Warning:  include(global/sections/head.php): failed to open stream: No such file or directory in /home1/ignition633/new-site/index.php on line 4
+[11-Mar-2020 14:21:36 America/Chicago] PHP Warning:  include(global/sections/head.php): failed to open stream: No such file or directory in /home1/ignition633/new-site/index.php on line 4
+[11-Mar-2020 14:21:36 America/Chicago] PHP Warning:  include(): Failed opening 'global/sections/head.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/ignition633/new-site/index.php on line 4
+[11-Mar-2020 14:21:42 America/Chicago] PHP Warning:  include(global/sections/head.php): failed to open stream: No such file or directory in /home1/ignition633/new-site/index.php on line 4
+[11-Mar-2020 14:21:42 America/Chicago] PHP Warning:  include(global/sections/head.php): failed to open stream: No such file or directory in /home1/ignition633/new-site/index.php on line 4
+[11-Mar-2020 14:21:42 America/Chicago] PHP Warning:  include(): Failed opening 'global/sections/head.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/ignition633/new-site/index.php on line 4
+[11-Mar-2020 14:23:19 America/Chicago] PHP Warning:  include(global/sections/head.php): failed to open stream: No such file or directory in /home1/ignition633/new-site/index.php on line 4
+[11-Mar-2020 14:23:19 America/Chicago] PHP Warning:  include(global/sections/head.php): failed to open stream: No such file or directory in /home1/ignition633/new-site/index.php on line 4
+[11-Mar-2020 14:23:19 America/Chicago] PHP Warning:  include(): Failed opening 'global/sections/head.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/ignition633/new-site/index.php on line 4
+[11-Mar-2020 14:23:19 America/Chicago] PHP Warning:  include(global/sections/pre-loader.php): failed to open stream: No such file or directory in /home1/ignition633/new-site/index.php on line 11
+[11-Mar-2020 14:23:19 America/Chicago] PHP Warning:  include(global/sections/pre-loader.php): failed to open stream: No such file or directory in /home1/ignition633/new-site/index.php on line 11
+[11-Mar-2020 14:23:19 America/Chicago] PHP Warning:  include(): Failed opening 'global/sections/pre-loader.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/ignition633/new-site/index.php on line 11
+[11-Mar-2020 14:23:22 America/Chicago] PHP Warning:  include(global/sections/head.php): failed to open stream: No such file or directory in /home1/ignition633/new-site/index.php on line 4
+[11-Mar-2020 14:23:22 America/Chicago] PHP Warning:  include(global/sections/head.php): failed to open stream: No such file or directory in /home1/ignition633/new-site/index.php on line 4
+[11-Mar-2020 14:23:22 America/Chicago] PHP Warning:  include(): Failed opening 'global/sections/head.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/ignition633/new-site/index.php on line 4
+[11-Mar-2020 14:23:22 America/Chicago] PHP Warning:  include(global/sections/pre-loader.php): failed to open stream: No such file or directory in /home1/ignition633/new-site/index.php on line 11
+[11-Mar-2020 14:23:22 America/Chicago] PHP Warning:  include(global/sections/pre-loader.php): failed to open stream: No such file or directory in /home1/ignition633/new-site/index.php on line 11
+[11-Mar-2020 14:23:22 America/Chicago] PHP Warning:  include(): Failed opening 'global/sections/pre-loader.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/ignition633/new-site/index.php on line 11
