@@ -2641,7 +2641,8 @@ button.btn-lg {
   margin-left: 16px; }
 
 .h1, .h2, .h3, .h4, h1, h2, h3, h4 {
-  font-weight: 300; }
+  font-weight: 300; 
+  font-family: RoughneckExtremeW00-Rg;}
 
 img {
   vertical-align: unset;
@@ -5588,7 +5589,9 @@ fieldset[disabled] .checkbox, fieldset[disabled] .checkbox input[type=checkbox],
 
 /*------------- #OVERLAY-MENU --------------*/
 body {
-  overflow-x: hidden; }
+  overflow-x: hidden; 
+  font-family: Poppins;
+  font-size: 17px;}
   body:before {
     content: '';
     display: block;
@@ -8837,11 +8840,13 @@ ol ol li {
 
 .heading-title {
   margin-bottom: 30px;
-  line-height: 1.3em; }
+  line-height: 1.3em; 
+  color: #eab755;}
 
 .heading-text {
   margin-top: 20px;
-  line-height: 1.75; }
+  line-height: 1.75;
+  color: #fafbfd; }
   .heading-text.small {
     font-size: 14px; }
   .heading-text a {

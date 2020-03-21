@@ -23,3 +23,7 @@
 			}
 		});
 	</script>
+	
+	<!--Other Font-->
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Poppins:300,300i,400,500,600,700,800,900,900i%7CRoboto:400%7CRubik:100,400,700">
+<link href="//db.onlinewebfonts.com/c/67d981b113850355ce66b19d67f0ec1d?family=RoughneckExtremeW00-Rg" rel="stylesheet" type="text/css"/>
